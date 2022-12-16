@@ -6,83 +6,15 @@
       "id": 1
     },
     {
-      "cost": 0,
-      "services": [],
-      "id": 2
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 3
-    },
-    {
-      "cost": 0,
-      "services": [
-        "infra"
-      ],
-      "id": 4
-    },
-    {
-      "cost": 0,
-      "services": [
-        "infra"
-      ],
-      "id": 5
-    },
-    {
-      "cost": 0,
-      "services": [
-        ""
-      ],
-      "id": 6
-    },
-    {
-      "id": 7
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 8
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 9
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 10
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 11
-    },
-    {
-      "name": "fábrica",
-      "budget": "12000",
-      "cost": 0,
-      "services": [],
-      "id": 12
-    },
-    {
-      "name": "Nova engine",
-      "budget": "152000",
-      "cost": 0,
-      "services": [],
-      "id": 13
-    },
-    {
-      "name": "teste3",
-      "budget": "10000",
+      "name": "Novo Sistema operacional",
+      "budget": "25000",
       "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
+        "id": "1",
+        "name": "Infra"
       },
       "cost": 0,
       "services": [],
-      "id": 14
+      "id": 2
     }
   ],
   "categories": [
