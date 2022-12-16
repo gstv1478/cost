@@ -1,20 +1,26 @@
 {
   "projects": [
     {
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
       "name": "Novo Sistema operacional",
-      "budget": "25000",
+      "budget": "5000",
       "category": {
-        "id": "1",
-        "name": "Infra"
+        "id": "4",
+        "name": "Planejamento"
       },
       "cost": 0,
       "services": [],
-      "id": 2
+      "id": 3
+    },
+    {
+      "name": "teste",
+      "budget": "8000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
     }
   ],
   "categories": [
