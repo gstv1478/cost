@@ -12,11 +12,11 @@
       "id": 3
     },
     {
-      "name": "teste",
-      "budget": "8000",
+      "name": "testeArualizado",
+      "budget": "3205",
       "category": {
-        "id": "4",
-        "name": "Planejamento"
+        "id": "3",
+        "name": "Design"
       },
       "cost": 0,
       "services": [],
