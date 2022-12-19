@@ -1,82 +1,50 @@
 {
   "projects": [
     {
-      "name": "Novo Sistema operacional",
-      "budget": "5000",
+      "name": "fábrica",
+      "budget": "1000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 450,
+      "services": [
+        {
+          "name": "contratar empresa de terraplanagem",
+          "cost": "250",
+          "description": "encontrar um empresa de terraplanagem disponível essa semana",
+          "id": "3f281dad-0c3a-4aa5-9f7a-1fb6055dbb8a"
+        },
+        {
+          "name": "contratar engenheiro de civil",
+          "cost": "200",
+          "description": "fazer a planta da fábrica",
+          "id": "b51cf019-b2ca-43c3-a670-5221bbf5f5e2"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Contratar equipe nova",
+      "budget": "200",
       "category": {
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 5000,
-      "services": [
-        {
-          "name": "teste0145",
-          "cost": "1249",
-          "description": "pesquisar de novo",
-          "id": "dda22893-f456-4540-89b4-a9fea141373a"
-        },
-        {
-          "name": "teste01451",
-          "cost": "1251",
-          "description": "pesquisar de novo",
-          "id": "2680028d-3f97-4b6f-8da7-62b0d0f1ee6c"
-        },
-        {
-          "name": "teste01452",
-          "cost": "1250",
-          "description": "pesquisar de novo",
-          "id": "d2660dd6-0653-4140-bf61-338776e346bf"
-        },
-        {
-          "name": "teste01453",
-          "cost": "1250",
-          "description": "pesquisar de novo",
-          "id": "dc6d6201-08a6-49c0-85f0-429570b1308b"
-        }
-      ],
-      "id": 3
+      "cost": 0,
+      "services": [],
+      "id": 2
     },
     {
-      "name": "fábrica",
-      "budget": "1000",
+      "name": "Novo Sistema operacional",
+      "budget": "10000",
       "category": {
         "id": "1",
         "name": "Infra"
       },
-      "cost": null,
-      "services": [
-        {
-          "name": "fábrica",
-          "cost": "9",
-          "description": "pesquisar",
-          "id": "8f617849-3465-4605-be63-d0bc9b2c0a11"
-        },
-        {
-          "name": "teste",
-          "cost": "10",
-          "description": "pesquisar",
-          "id": "20360d4f-a911-45fa-b7f2-99ffa74c306a"
-        },
-        {
-          "name": "Novo Sistema operacional",
-          "cost": "10",
-          "description": "teste0102",
-          "id": "563850e4-bb5b-4fef-b8ef-830ea1e580cd"
-        },
-        {
-          "name": "teste",
-          "cost": "10",
-          "description": "dpsEdit",
-          "id": "3fc7f818-8730-4270-94cb-9f72ca96d15c"
-        },
-        {
-          "name": "10",
-          "cost": "10",
-          "description": "teste0102",
-          "id": "0530d9f0-66d0-4e74-9897-611342c88dfe"
-        }
-      ],
-      "id": 4
+      "cost": 0,
+      "services": [],
+      "id": 3
     }
   ],
   "categories": [

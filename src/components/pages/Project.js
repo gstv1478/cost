@@ -1,4 +1,4 @@
-import { parse, v4 as uuidv4} from 'uuid'
+import {  v4 as uuidv4} from 'uuid'
 import {useParams } from 'react-router-dom'
 import { useState, useEffect } from 'react'
 import Loading from './../layout/Loading'
@@ -97,7 +97,7 @@ function Project() {
           })
           .catch((err) => console.log(err))
     }
-    function removeService({id, cost}) {
+    function removeService(id, cost) {
 
         const servicesUpdated = project.services.filter(
             (service) => service.id !== id
@@ -120,6 +120,7 @@ function Project() {
             setServices(servicesUpdated)
             setMessage('Serviço removido com sucesso!')
             setType('success')
+            console.log(projectUpdated.cost)
         })
         .catch((err) => console.log(err))
 
