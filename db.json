@@ -7,20 +7,34 @@
         "id": "4",
         "name": "Planejamento"
       },
-      "cost": 0,
-      "services": [],
+      "cost": 5000,
+      "services": [
+        {
+          "name": "teste0145",
+          "cost": "1249",
+          "description": "pesquisar de novo",
+          "id": "dda22893-f456-4540-89b4-a9fea141373a"
+        },
+        {
+          "name": "teste01451",
+          "cost": "1251",
+          "description": "pesquisar de novo",
+          "id": "2680028d-3f97-4b6f-8da7-62b0d0f1ee6c"
+        },
+        {
+          "name": "teste01452",
+          "cost": "1250",
+          "description": "pesquisar de novo",
+          "id": "d2660dd6-0653-4140-bf61-338776e346bf"
+        },
+        {
+          "name": "teste01453",
+          "cost": "1250",
+          "description": "pesquisar de novo",
+          "id": "dc6d6201-08a6-49c0-85f0-429570b1308b"
+        }
+      ],
       "id": 3
-    },
-    {
-      "name": "testeArualizado",
-      "budget": "3205",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": [],
-      "id": 4
     }
   ],
   "categories": [
