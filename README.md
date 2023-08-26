@@ -1,3 +1,6 @@
+<img src=public/costs1.png>
+<img src=public/costs2.png>
+
 <<<<<<< HEAD
 # Getting Started with Create React App
 
